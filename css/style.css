@@ -1,0 +1,70 @@
+/* INICIO */
+*{ 
+       width: 100%;
+}
+h1, h2, h3, h4, p, a, li{
+    list-style-type: none;
+    color: #ffffff;
+    font-family: 'IM Fell English SC';
+    background: transparent;
+    text-shadow: #000 1px 1px 1px;
+    text-align:center
+
+
+}
+a:hover {
+    color:#c4c4c4
+
+}
+
+
+h1, h2 {
+    background-color: rgba(0,0,0,.5);
+    font-family: 'IM Fell English SC';
+}
+
+/*style MENU-NAV */
+.navbarDropdown{
+    background-color: #000000;
+
+}
+.dropdown-item{
+    color: #FFFFFF;
+    text-shadow: #000 1px 1px 1px;
+    
+}
+.navbar-brand img {
+    max-width: 33%;
+}
+.alpha { color: $purple; }
+.letra {
+  color: $yellow-300;
+  background-color: $indigo-900;
+}
+
+/*style body */
+body{
+
+    background-image: url(../img/Fundo02.png);
+    background-color: rgba(201,76,76,0);
+    background-size: 100%;
+    background-repeat: repeat-y;
+    background-color: #14171a;
+}
+/*style footer*/
+footer{
+    background-color: #000000;
+    margin-top: 2%;
+    opacity: 0.7;
+}
+footer img{
+    background-color: #ffffff;
+}
+/*PAGINA DICAS*/
+.dicas{
+    border: none;
+}
+.dicas p{
+    font-size:x-small;
+    margin-top: 20px;
+}

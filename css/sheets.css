@@ -1,0 +1,104 @@
+/*Geral*/
+.box{
+    background-color: rgba(0, 0, 0, .8);
+    border: 2px solid rgb(48, 48, 48);
+    border-radius: 5px;
+    box-shadow: #000 2px 2px 2px;
+}
+.container h2{
+    margin-top: 20px;
+}
+
+/* Drop Nav do Servidores*/
+.sqs-block-content h1 {
+    font-size: 70px;
+    padding: 10px;
+}
+/*INICIO IMAGEM*/
+.imginicio {
+    padding: 40px 20px;
+}
+/*INICIO DO TEXTO*/
+.col-6 {
+    background-color: rgba(0, 0, 0, .8);
+    border: 2px solid rgb(48, 48, 48);
+    margin: 4%;
+    border-radius: 5px;
+    box-shadow: #000 2px 2px 2px;
+    ;
+}
+
+.col-6 p box{
+    font-size: larger;
+}
+
+.col-6 h2 box{
+    margin-top: 10px;
+    border: 2px solid rgb(236, 236, 236);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn {
+}
+
+/*TEXTO COM IMAGEM*/
+
+.description-box {
+    background-image: url(../img/imgheader2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-shadow: #000 2px 2px 2px;
+    background-size: cover;
+    border: 2px solid rgb(48, 48, 48);
+    padding: 180px 0;
+    color: #000;
+    text-shadow: 1px 1px 0 #fff;
+    margin-bottom: 2%;
+}
+
+.description-box h1 {
+    font-size: 5vw;
+}
+
+.description-box p {
+    font-size: x-large;
+    text-align: center;
+}
+
+/*CAROUSEL"ganbiarra"*/
+
+.carousel {
+    max-width: 50%;
+    margin-left: 25%;
+    border: 6px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.carousel-indicators{
+    max-width: 70%; 
+
+}
+.carousel h2{
+    max-width: 70%;
+}
+
+
+
+/*FOOTER*/
+
+
+footer li {
+    font-size: xx-large;
+    font-family: 'IM Fell English SC';
+    border:0;
+    border: none;
+}
+footer li a{
+    text-decoration:none; 
+    border:0;
+    border: none;
+}
+/*PAGINA SERVERS*/
+.box h1, p{
+    margin-top: 10px;
+}
